@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888614601356",
+    "project_id": "colorslab-9435c",
+    "storage_bucket": "colorslab-9435c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888614601356:android:81c000a69d1b68156b31a9",
+        "android_client_info": {
+          "package_name": "com.example.colorlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888614601356-n8i75der5meeuljjj76sf1r6na3k1ktp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbdtqyRP2nW3p3rslcg8SY7R89_U2Jtg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888614601356-n8i75der5meeuljjj76sf1r6na3k1ktp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
